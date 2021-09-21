@@ -48,9 +48,12 @@
 ### 🏆 수상
 
 ---
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/129ae7e8-71b2-4a56-8149-da326bdd7230/Untitled.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/129ae7e8-71b2-4a56-8149-da326bdd7230/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210822%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210822T111924Z&X-Amz-Expires=86400&X-Amz-Signature=e9a431abcaf9580acd53ad0f92be79fff027c400f05b04d2e88b71baafd6164b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+
+![Untitled](https://user-images.githubusercontent.com/23237567/134124235-e30ec42b-4f1d-4ee2-a971-f7f6b6f57508.png)
+
 
 ### 📎 첨부자료
 
 ---
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/81c99c1d-3dd1-4852-a836-b527f49ccc2a/ezgif.com-optimize_%284%29.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210822%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210822T112120Z&X-Amz-Expires=86400&X-Amz-Signature=2197c8a086717a1e1a5b02f927fd26fc6b4af684d92269544a5a2edb4c1aab6c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22ezgif.com-optimize_%284%29.gif%22)
+
+![ezgif com-optimize_(4)](https://user-images.githubusercontent.com/23237567/134124071-8152b820-01af-419d-a40d-048568882286.gif)
